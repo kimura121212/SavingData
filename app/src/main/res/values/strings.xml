@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SavingData</string>
+    <string name="saved_time">savedTime</string>
+</resources>
